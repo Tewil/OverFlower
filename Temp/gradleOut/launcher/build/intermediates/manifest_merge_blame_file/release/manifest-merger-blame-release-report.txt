@@ -132,7 +132,7 @@
 74-->[:unityLibrary] C:\Users\Thors\dev\unity\projects\OverFlower\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:9-62:68
 75            android:name="unity.build-id"
 75-->[:unityLibrary] C:\Users\Thors\dev\unity\projects\OverFlower\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-42
-76            android:value="378ce327-4228-492b-9d5a-82391d626820" />
+76            android:value="8ffc2b90-e6bf-42ba-8206-6859a3890c93" />
 76-->[:unityLibrary] C:\Users\Thors\dev\unity\projects\OverFlower\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:13-65
 77        <meta-data
 77-->[:unityLibrary] C:\Users\Thors\dev\unity\projects\OverFlower\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:9-65:36
