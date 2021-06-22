@@ -1,6 +1,7 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - Broccoli.Controller.BroccoTreeController
     - ObjectSpawner
     - PlacementIndicator
     Unity.Rider.Editor.dll:
@@ -72,12 +73,20 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3956}
     - Class: 114
-      Script: {instanceID: 4616}
+      Script: {instanceID: 4264}
+    - Class: 114
+      Script: {instanceID: 4618}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 205
+      Script: {instanceID: 0}
+    - Class: 226
+      Script: {instanceID: 0}
+    - Class: 227
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -680,6 +689,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
     namespaceName: UnityEngine.XR.LegacyInputHelpers
     className: SwingArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: ff153a48071ee21d89059f94889f64a4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Broccoli.Controller
+    className: BroccoTreeController
   - hash:
       serializedVersion: 2
       Hash: 01473135d671a71d740e507b04eb93da
